@@ -1,4 +1,4 @@
-## npm package pubblish demo
+## npm package publish demo
 
 ### install
 
