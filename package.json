@@ -1,8 +1,8 @@
 {
   "name": "cli-gen-demo",
   "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "node gen demo",
+  "main": "gen.js",
   "bin": {
     "gen": "gen.js"
   },
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/sRect/cli-gen-demo.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "srect",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sRect/cli-gen-demo/issues"
